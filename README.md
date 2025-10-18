@@ -104,7 +104,7 @@ Each sheet must have proper headers in the first row.
 
 ---
 
-## ✍️ Author Notes
+## ✍️ Developer Notes
 
 This simulation is designed to support monetization tuning, progression balancing, and reward system evaluation for games using "pick until fail" mechanics.
 
